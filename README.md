@@ -17,7 +17,7 @@
  
 <div> 
   <a href="https://instagram.com/bruno.rodrigues.d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%092d45?style=logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunorodrigues@gec.inate.br"><img src="https://img.shields.io/badge/-Outlook-%2d8fdf?style=logo=outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brunorodrigues@gec.inate.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-Rodrigues-020823a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
