@@ -1,4 +1,4 @@
-## Oi! Eu sou o Bruno Rodrigues 
+## Olá! Eu sou o Bruno Rodrigues 
  <div>
   <a href="https://github.com/bruno-rodrigues-d">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-rodrigues-d&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,6 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
