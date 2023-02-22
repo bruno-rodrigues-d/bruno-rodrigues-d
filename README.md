@@ -1,40 +1,28 @@
-## Olá! Eu sou o Bruno Rodrigues 
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+ <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Rodrigues</h1> -->
+<h1 align="left">Hi, I'm Bruno Rodrigues</h1>
+
+- 🔥 Web Developer & Designer
+
+- 🔭 I’m currently working at Stoom e-commerce
+
+- 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
+
+- 👨‍💻 More at [bruno-rd](https://www.linkedin.com/in/bruno-rd/)
+
+
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+
+<a href="https://linkedin.com/in/bruno-rd" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/bruno.rodrigues.d/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
 </p>
 
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
- 
-
-<hr>
-
- ---
- 
-   <div align="center">
- 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bruno-rodrigues-d&show_icons=true&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues-d&theme=dark"/>
-  <br>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-rodrigues-d&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
-  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruno-rodrigues-d&theme=monokai"/>
-
-   </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/bruno.rodrigues.d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%092d45?style=logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunorodrigues@gec.inate.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-Rodrigues-020823a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
