@@ -4,9 +4,7 @@
 
 - 🔥 Web Developer & Designer
 
-- 🔭 I’m currently working at Stoom e-commerce
-
-- 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, React.JS, Next.JS**
 
 - 👨‍💻 More at [bruno-rd](https://www.linkedin.com/in/bruno-rd/)
 
